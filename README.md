@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tmsheipline / Taylor Sheipline
-- 👀 Aspiring Software Engineer
+- 👀 Software Engineer
 - 🌱 HTML/CSS/Javascript
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I was a Registered Vet Tech prior to making the career jump into software development.
