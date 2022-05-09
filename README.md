@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tmsheipline
+- 👋 Hi, I’m @tmsheipline / Taylor Sheipline
 - 👀 Aspiring Software Engineer
 - 🌱 HTML/CSS/Javascript
 - 😄 Pronouns: She/Her
