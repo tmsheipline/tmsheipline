@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tmsheipline / Taylor Sheipline
 - 👀 Software Engineer
-- 🌱 HTML/CSS/Javascript/Node/Express/MongoDb
+- 🌱 MERN Stack - Python
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I was a Registered Vet Tech prior to making the career jump into software development.
 
