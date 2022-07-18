@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tmsheipline / Taylor Sheipline
 - 👀 Full Stack Software Engineer
-- 🌱 MERN Stack - Python
+- 🌱 MERN Stack - Python/Django
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I was a Registered Vet Tech prior to making the career jump into software development.
 
